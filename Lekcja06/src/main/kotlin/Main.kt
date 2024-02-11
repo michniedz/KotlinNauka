@@ -3,7 +3,7 @@ package org.example
 import kotlin.math.*
 
 fun main() {
-    //indtrukcja warunkowa IF
+    //instrukcja warunkowa IF
     var a = 5
     var b = 10
     // if
