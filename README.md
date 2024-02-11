@@ -10,3 +10,21 @@
 * **[Lekcja 09](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja09)** - Instrukcja skoku break i continue
 * **[Lekcja 10](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja10)** - Tablice
 * **[Lekcja 11](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja11)** - Pętla for
+* Lekcja 12 - Funkcje
+* Lekcja 13 - Funkcje anonimowe, lambda
+* Lekcja 14 - Funkcje wyższego rzędu
+* Lekcja 15 - Programowanie obiektowe: klasy
+* Lekcja 16 - Programowanie obiektowe: konstruktor
+* Lekcja 17 - Programowanie obiektowe: hermetyzacja
+* Lekcja 18 - Programowanie obiektowe: dziedziczenie
+* Lekcja 19 - Programowanie obiektowe: poziomy dostępności
+* Lekcja 20 - Programowanie obiektowe: abstrakcja
+* Lekcja 21 - Programowanie obiektowe: interfejsy
+* Lekcja 22 - Typ wyliczeniowy: enum
+* Lekcja 23 - Zmienne i funkcje statyczne
+* Lekcja 24 - Rekurencja
+* Lekcja 25 - Kolekcja: lista
+* Lekcja 26 - Polimorfizm
+* Lekcja 27 - Wyjątki
+* Lekcja 28 - Funkcja toString oraz equals
+* Lekcja 29 - Przeciążenia operatorów
