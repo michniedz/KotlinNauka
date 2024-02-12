@@ -10,7 +10,7 @@
 * **[Lekcja 09](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja09)** - Instrukcja skoku break i continue
 * **[Lekcja 10](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja10)** - Tablice
 * **[Lekcja 11](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja11)** - Pętla for
-* Lekcja 12 - Funkcje
+* **[Lekcja 12](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja12)** - Funkcje
 * Lekcja 13 - Funkcje anonimowe, lambda
 * Lekcja 14 - Funkcje wyższego rzędu
 * Lekcja 15 - Programowanie obiektowe: klasy
