@@ -13,7 +13,7 @@
 * **[Lekcja 12](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja12)** - Funkcje
 * **[Lekcja 13](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja13)** - Funkcje anonimowe, lambda
 * **[Lekcja 14](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja14)** - Funkcje wyższego rzędu
-* **[Lekcja 15]()** - Programowanie obiektowe: klasy
+* **[Lekcja 15](https://github.com/michniedz/KotlinNauka/tree/main/Lekcja15)** - Programowanie obiektowe: klasy
 * **[Lekcja 16]()** - Programowanie obiektowe: konstruktor
 * **[Lekcja 17]()** - Programowanie obiektowe: hermetyzacja
 * **[Lekcja 18]()** - Programowanie obiektowe: dziedziczenie
